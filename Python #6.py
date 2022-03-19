@@ -81,3 +81,17 @@ print(brad_list[1]) # Prints 'Smith'
 print(brad_list[0]) # Prints 'Brad'
 
 print(brad_list[4:7]) # ['red', 'pizza', 'lobster']
+
+print(len(brad_list))
+
+print(brad_list[0])
+
+print(brad_list[4])
+
+print(brad_list[7])
+
+print(brad_list[2:5])
+
+print(brad_list[2:])
+
+print(brad_list[:5])
